@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm Shreya 
-🌱 I’m currently learning Python and C++
-🤔 I’m looking for help with getting started on AI and Robotics
-⚡ Fun fact: The earliest match for "fun fact[s]" in Google Books searches is from 1984
+A determined sophomore from Vellore Institute of Technology, seeking development opportunities in the field of Computer vision and Deep learning applications in Robotics. Experience working with Autonomous Navigation using 2D LiDAR in ROS and Arduino-based projects. Looking to leverage my experience in data handling and developing neural networks.
 <!--
 **Shreya-Ragi/Shreya-Ragi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
