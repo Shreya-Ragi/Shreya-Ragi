@@ -1,5 +1,9 @@
 ### Hi there 👋
-I'm Shreya. As a motivated third-year engineering student, I am eager to utilize my skills in creating efficient and adaptable solutions. My experience with 2-D LiDAR autonomous navigation and dynamic motion planning has equipped me with the necessary technical skills to contribute to challenging projects. Currently, I am involved in developing a level 3 autonomy underwater vehicle for the TAC 2023 challenge. I am keen to delve deeper into the field of machine learning and deep learning algorithms that can be integrated with robotic system frameworks. My ultimate goal is to develop innovative and practical solutions that can make a significant impact. I am actively seeking new development opportunities to achieve this objective.
+First-year master’s student in Robotic Systems Development at Carnegie Mellon University. My work focuses on computer vision, 3D perception, and learning-based methods for robotics. 
+
+I have experience with multi-view 3D reconstruction, instance segmentation in sparse point clouds, autonomous navigation using a 2D LiDAR, and constrained motion planning for multi-arm manipulation systems. I build and deploy deep learning models for robotic perception, integrating classic vision algorithms with neural networks on edge devices. Skilled in Python, C++, PyTorch3D, OpenCV, ROS2, and deploying solutions in real-world and simulated environments. 
+
+Seeking roles in vision, perception, and learning for robotics and intelligent systems.
 <!--
 **Shreya-Ragi/Shreya-Ragi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
